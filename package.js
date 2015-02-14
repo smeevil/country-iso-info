@@ -1,7 +1,7 @@
 Package.describe({
   name: 'smeevil:country-iso-info',
   summary: 'Small lib that contains various information of a country',
-  version: '1.0.0',
+  version: '1.0.1',
   git: 'https://github.com/smeevil/country-iso-info.git'
 });
 
